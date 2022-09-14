@@ -1,0 +1,22 @@
+{
+  "name": "linear-regression",
+  "version": "1.0.0",
+  "description": "Linear Regression with TensorFlow.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.20.0",
+    "@tensorflow/tfjs-vis": "^1.5.1",
+    "parcel": "^2.7.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "process": "^0.11.10"
+  }
+}
