@@ -1,7 +1,7 @@
 {
-  "name": "linear-regression",
+  "name": "cnn",
   "version": "1.0.0",
-  "description": "Linear Regression with TensorFlow.js",
+  "description": "CNN with TensorFlow.js",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow/tfjs": "^4.1.0",
+    "@tensorflow/tfjs": "^4.0.0",
     "@tensorflow/tfjs-vis": "^1.5.1",
     "parcel": "^2.7.0"
   },
